@@ -1,0 +1,2 @@
+Environment,Add Waypoint,GO,CloseMenu
+Player,CloseMenu
